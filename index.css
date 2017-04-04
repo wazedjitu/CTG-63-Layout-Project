@@ -1,0 +1,105 @@
+
+/*header*/
+.header{
+	width: 100%;
+	border: 2px solid red;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.logo{
+	width: 30%;
+	height: 30px;
+	border: 2px solid green;
+	box-sizing: border-box;
+	float: left;
+}
+
+.menu{
+	width: 70%;
+	height: 30px;
+	border: 2px solid blue;
+	box-sizing: border-box;
+	float: right;
+}
+/*end header*/
+
+/*content*/
+.content{
+	width: 100%;
+	border: 2px solid red;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.content1{
+	width: 60%;
+	/*height: 30px;*/
+	border: 2px solid green;
+	box-sizing: border-box;
+	float: left;
+}
+
+.content2{
+	width: 40%;
+	border: 2px solid blue;
+	box-sizing: border-box;
+	float: right;
+}
+
+.sub_content{
+	width: 100%;
+	border: 2px solid green;
+	margin: 10px;
+}
+/*content end*/
+/*news*/
+.news{
+	width: 100%;
+	border: 2px solid red;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.news1{
+	width: 33.3%;
+	/*height: 30px;*/
+	border: 2px solid green;
+	box-sizing: border-box;
+	float: left;
+}
+.news2{
+	width: 33.3%;
+	/*height: 30px;*/
+	border: 2px solid green;
+	box-sizing: border-box;
+	float: left;
+}
+
+.sub_news1{
+	width: 100%;
+	border: 1px solid green;
+	}
+
+.news3{
+	width: 33.3%;
+	/*height: 30px;*/
+	border: 2px solid green;
+	box-sizing: border-box;
+	float: left;
+}
+/*news end*/
+/*footer*/
+.footer{
+	width: 100%;
+	border: 2px solid red;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow: hidden;
+	/*footer*/
